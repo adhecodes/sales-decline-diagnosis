@@ -20,7 +20,9 @@ The analysis reveals that the 2025 decline is **demand-driven** and **highly con
 
 ![image alt](https://github.com/adhecodes/sales-decline-diagnosis/blob/29a45f9c320d5b14ef8b40e48fafd416eca7b995/image.png)
 
-In 2025, total sales declined by **9.4% YoY**, primarily driven by a **6.2% contraction in quantity sold**. Despite weaker demand, the business successfully preserved profitability, with **profit margin improving by 7.6% YoY**. Monthly trends reveal **higher volatility compared to 2024**, with **eight months performing below the annual average and sharp declines in September and November.** This indicates unstable demand rather than a one-off seasonal effect.
+In 2025, total sales declined by **9.4% YoY**, primarily driven by a **6.2% contraction in quantity sold**. Despite weaker demand, the business successfully preserved profitability, with **profit margin improving by 7.6% YoY**.
+
+Monthly trends reveal **higher volatility compared to 2024**, with **eight months performing below the annual average and sharp declines in September and November.** This indicates unstable demand rather than a one-off seasonal effect.
 
 Notably, **Average Order Value (AOV) remained consistently above the yearly average**, implying that the decline was driven by **fewer transactions**, not lower basket value. This resilience is likely influenced by **category mix shifts toward higher-value Electronics**, rather than pure pricing power.
 
