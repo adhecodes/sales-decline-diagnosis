@@ -1,6 +1,8 @@
 # Diagnosing Sales Decline for Strategic Portfolio Decisions
 
-**In 2025, the company experienced a notable sales contraction despite improving profitability. Management needs to understand whether the decline is driven by demand weakness, pricing and product mix dynamics, or deeper structural issues, and where to prioritize resources to protect profitability while restoring sustainable growth.**
+![image alt](https://github.com/adhecodes/sales-decline-diagnosis/blob/bdd3fbcaffdcae71cb3e4a183d24b9c125ad9474/cvr-sales-decline-diagnosis.png)
+
+In 2025, the company experienced a notable sales contraction despite improving profitability. Management needs to understand **whether the decline is driven by demand weakness, pricing and product mix dynamics, or deeper structural issues,** and **where to prioritize resources** to protect profitability while restoring sustainable growth.
 
 ### Objective
 This project aims to:
@@ -10,24 +12,32 @@ This project aims to:
 - Translate analytical insights into **clear, actionable strategic priorities** to inform portfolio focus and resource allocation decisions.
 
 ### Outcome
-The analysis reveals that the 2025 decline is demand-driven and highly concentrated in specific categories, while a limited set of sub-categories continues to deliver sustainable, margin-accretive growth. These insights support more focused investment, pricing, and portfolio decisions.
+The analysis reveals that the 2025 decline is **demand-driven** and **highly concentrated in specific categories**, while a limited set of sub-categories continues to deliver sustainable, margin-accretive growth. These insights support more focused **investment, pricing, and portfolio decisions**.
 
 <h1 align="center">Executive Summary</h1>
 <h3 align="center">Sales Performance Overview (2024-2025)</h3>
 
-/line chart sales & aov
+![image alt](https://github.com/adhecodes/sales-decline-diagnosis/blob/29a45f9c320d5b14ef8b40e48fafd416eca7b995/image.png)
 
 In 2025, total sales declined by **9.4% YoY**, primarily driven by a **6.2% contraction in quantity sold**. Despite weaker demand, the business successfully preserved profitability, with **profit margin improving by 7.6% YoY**. Monthly trends reveal **higher volatility compared to 2024**, with **eight months performing below the annual average and sharp declines in September and November.** This indicates unstable demand rather than a one-off seasonal effect.
 
 Notably, **Average Order Value (AOV) remained consistently above the yearly average**, implying that the decline was driven by **fewer transactions**, not lower basket value. This resilience is likely influenced by **category mix shifts toward higher-value Electronics**, rather than pure pricing power.
 
-/chart yoy sales category
+<br>
+
+<p align="center">
+  <img src="https://github.com/adhecodes/sales-decline-diagnosis/blob/bf604c49660f8771630904bdbf5627f02232a040/img-1b.png" alt="Sales Decline Analysis">
+</p>
 
 Category performance highlights a clear divergence:
 - **Electronics (+18.7%)** emerged as the only growth contributor.
 - **Office Supplies (-25.4%)** and **Furniture (-15.8%)** were the primary drags on overall performance.
 
-/chart q1-14
+<br>
+
+<p align="center">
+  <img width="753" height="354" alt="Image" src="https://github.com/user-attachments/assets/245bf13f-3066-46f1-8adc-e289bc3c31cd" />
+</p>
 
 Although sales softened across most quarters, quarterly margins consistently remained above 27%, reinforcing that the downturn was volume-led rather than driven by pricing or cost deterioration.
 
