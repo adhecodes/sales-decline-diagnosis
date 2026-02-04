@@ -139,7 +139,7 @@ Overall margins remained stable between 22% and 30% throughout the year, with se
 - **Rationale:** These segments remain profitable but face structural or competitive demand pressure. The goal is value protection, not aggressive growth.
 
 
-### 3. Repair Margin — Fix Economics Before Scaling Further
+### 3. Fix Pricing — Repair Margins Before Scale
 - **Products:** Laptops, Tables
 - **Objective:** Restore economic efficiency by addressing pricing, discounting, and cost leakage before pursuing additional growth. 
 - **Recommended Actions:**
